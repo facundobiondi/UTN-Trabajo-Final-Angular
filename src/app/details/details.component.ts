@@ -36,7 +36,7 @@ import {
         <ul>
           <li>Category: {{ storeItems.category }}</li>
           <li>Rating: {{ storeItems.rating.rate }}</li>
-          <li>Count of opinios: {{ storeItems.rating.count }}</li>
+          <li>Opinios: {{ storeItems.rating.count }}</li>
         </ul>
       </section>
 

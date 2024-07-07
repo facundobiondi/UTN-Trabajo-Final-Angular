@@ -9,8 +9,8 @@ import { HomeComponent } from './home/home.component';
   template: `
     <main>
       <header class="brand-mame">
-        <h1 routerLink="/">Encabezado</h1>
-        <img src="./assets/logo.jpg" alt="Logo" />
+        <h1>Fake Store</h1>
+        <botton class="botton-home" routerLink="/"> Home </botton>
       </header>
 
       <section class="content">
